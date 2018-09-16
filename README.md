@@ -1,5 +1,6 @@
 # quizzler
-True or false game
+True or false game  
+User submitted questions are always welcome!
 
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
