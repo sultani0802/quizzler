@@ -19,3 +19,5 @@ Xcode 9. iPhone 6 or newer running iOS 11 isn't necessary but nice to use to dep
 ## Built With
 - Swift standard library (UIKit)
 - Features well commented code, images, auto-layout, interactive buttons, a progress HUD that shows the user they selected the in/correct answer, and a UI Alert that asks if the user wants to restart the game
+- [ProgressHUD](https://github.com/relatedcode/ProgressHUD)
+
